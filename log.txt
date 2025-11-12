@@ -1,0 +1,9 @@
+INFO System started
+DEBUG Loading configuration
+ERROR connection failed
+INFO User login successful
+WARNING Disk space low
+ERROR database timeout
+INFO Backup completed
+error permission denied
+DEBUG Cache cleared
